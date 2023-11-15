@@ -1,4 +1,4 @@
-# chatapp
+# List Product Simple Project
 
 A new Flutter project.
 
