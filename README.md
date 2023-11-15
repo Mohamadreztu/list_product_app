@@ -1,6 +1,6 @@
 # List Product Simple Project
 
-A new Flutter project.
+Proyek ini Merupakan tugas harian Pada Mata Kuliah Pemrograman Mobile.Proyek ini saya membuat list harga produk,, dengan menggunakan beberapa layouting sederhana
 
 ## Getting Started
 
