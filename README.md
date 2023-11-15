@@ -1,6 +1,6 @@
 # List Product Simple Project
 
-Proyek ini Merupakan tugas harian Pada Mata Kuliah Pemrograman Mobile.Proyek ini saya membuat list harga produk,, dengan menggunakan beberapa layouting sederhana
+Proyek ini Merupakan tugas harian Pada Mata Kuliah Pemrograman Mobile.Proyek ini saya membuat list harga produk, dengan menggunakan beberapa layouting sederhana
 
 ## Getting Started
 
